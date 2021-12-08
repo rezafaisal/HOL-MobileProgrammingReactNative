@@ -1,2 +1,1 @@
-# HOL-MobileProgrammingReactNative
-Hands on labs pemrograman mobile dengan React Native
+# Hands on Labs: Pemrograman Mobile dengan React Native
